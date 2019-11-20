@@ -344,10 +344,52 @@ const SHOP_DATA = [
         name: 'Toy Poop',
         imageUrl: '#',
         price: 29
+      },
+      {
+        id: 52,
+        name: 'Infinity Gauntlet',
+        imageUrl: '#',
+        price: 500
+      },
+      {
+        id: 53,
+        name: 'Blue Monkey',
+        imageUrl: '#',
+        price: 89
+      },
+      {
+        id: 54,
+        name: 'Weird Animals',
+        imageUrl: '#',
+        price: 25
+      },
+      {
+        id: 55,
+        name: 'Not sure what this is',
+        imageUrl: '#',
+        price: 24
+      },
+      {
+        id: 56,
+        name: 'Ugly Rabbit',
+        imageUrl: '#',
+        price: 45
+      },
+      {
+        id: 57,
+        name: 'Robot',
+        imageUrl: '#',
+        price: 45
+      },
+      {
+        id: 58,
+        name: 'high looking minion',
+        imageUrl: '#',
+        price: 64
       }
     ]
   }
-]
+];
 
 export default SHOP_DATA;
 
