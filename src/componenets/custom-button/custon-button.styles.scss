@@ -1,0 +1,21 @@
+button{
+  min-width: 165px;
+  width: auto;
+  height: 50px;
+  letter-spacing: 1.5px;
+  line-height: 50px;
+  padding: 0 35px 0 35px;
+  font-size: 15px;
+  background-color: #fff2009f;
+  color: rgb(0, 0, 0);
+  text-transform: uppercase;
+  font-weight: bolder;
+  border: none;
+  cursor: pointer;
+
+  &:hover{
+    background-color:rgb(0, 0, 0) ;
+    color: #fff2009f;
+    border: 1px dashed #fff2009f;
+  }
+}
